@@ -131,7 +131,7 @@ bool mdlfail=false;			// true if model file couldnt be find
 
 char filename[256]="";
 char dllpath[256]="";
-char dllfile[14]="\\opengl32.dll";
+char dllfile[14]="\\betaloader.dll";
 char offsetname[256]="";
 char modelfile[52]="";
 
